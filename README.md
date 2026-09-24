@@ -18,6 +18,17 @@
 - **Pre-trained Artifact Validation**: Validates existence of serialized model files (`LogisticRegression_model.pkl` and `count_vectorizer.pkl`) prior to inference. Zero re-training or fitting on user input.
 - **Input Guardrails & Security**: Graceful error handling for empty inputs, special characters, and out-of-vocabulary terms. User input is never evaluated as code.
 
+- <img width="959" height="380" alt="Screenshot 2026-09-24 161000" src="https://github.com/user-attachments/assets/23fdc5d5-1912-4bae-83af-ed16ba0d093f" />
+
+<img width="959" height="415" alt="Screenshot 2026-09-24 160941" src="https://github.com/user-attachments/assets/89699175-35f9-45a7-8898-cec4b26b23d6" />
+<img width="959" height="397" alt="Screenshot 2026-09-24 160804" src="https://github.com/user-attachments/assets/405a8510-c06d-406d-bbff-664e46078eff" />
+
+<img width="959" height="419" alt="Screenshot 2026-09-24 160742" src="https://github.com/user-attachments/assets/fc688935-5023-4921-ab48-1220231255db" />
+
+
+
+
+
 ---
 
 ## 🏷️ Emotion Categories & Mappings
